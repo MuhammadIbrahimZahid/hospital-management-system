@@ -1,8 +1,7 @@
-# Project Description (Short About)
+# Project Description
 
 A Spring Boot REST API-based Hospital Management System that manages doctors, patients, and appointments using a clean layered architecture. The system follows DTO-based design, JPA relationships, validation handling, and global exception management to ensure production-style backend development practices.
 
-# README.md (GitHub Ready)
 
 # Hospital Management System (Spring Boot REST API)
 
